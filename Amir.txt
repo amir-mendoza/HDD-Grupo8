@@ -1,0 +1,3 @@
+Nombre: Amir
+Distrido: Lima
+Carrera: Sistema
