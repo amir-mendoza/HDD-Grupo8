@@ -1,4 +1,4 @@
-Nombre: Amir
+Nombre: Amir Andre Mendoza Llantay
 Distrido: Lima
 Carrera: Sistema
 Universidad: UTP
